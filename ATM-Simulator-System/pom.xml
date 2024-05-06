@@ -1,0 +1,6 @@
+<dependencies>
+  <dependency>
+    <groupId>com.toedter</groupId>
+    <artifactId>toedter-calendar</artifactId>
+    <version>X.X.X</version> </dependency>
+</dependencies>
